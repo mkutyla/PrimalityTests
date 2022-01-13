@@ -1,0 +1,9 @@
+Miller-Rabin primality test
+Execution time: 0.0010013580322265625
+Results: [True, True, True, True, True, False, False, False, False, False]
+Fermat primality test
+Execution time: 0.0019996166229248047
+Results: [True, True, True, True, True, False, False, False, False, False]
+Sieve of Erathosthenes
+Execution time: 26.43378496170044
+Results: [True, True, True, True, True, False, False, False, False, False]
