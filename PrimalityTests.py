@@ -73,8 +73,8 @@ def Fermat(n, k=30):
 
 '''
 This function is a primality test based on the Sieve of Erathosthenes.
-It is improved by taking taking only int(math.sqrt(n)) + 1 memory space with the array
-This also implicates checking whether a prime divides n rather than running through the entire array
+It is improved by taking only int(math.sqrt(n)) + 1 memory space with the array
+This also implies checking whether a prime divides n rather than running through the entire array
 and check if array[n] stores 'True' at the end.
 
 Parameters:
